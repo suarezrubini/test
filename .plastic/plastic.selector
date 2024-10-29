@@ -1,0 +1,4 @@
+repository "Samba@danielrubini@cloud"
+  path "/"
+    br "/main"
+    co "/main"
